@@ -6,7 +6,7 @@ All you have to do is copy the ArrayPlotter.java class into your current project
 
 How it works is by colouring each block of the grid based on the integer value found at its xy coordinate in the array. Colours are defined in the cols array in the ArrayPlotter.java class as follows:
 
-Color [] cols = new Color[]
+            Color [] cols = new Color[]
             {
                     Color.WHITE,
                     Color.MAGENTA,
