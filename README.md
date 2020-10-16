@@ -1,6 +1,6 @@
 # ArrayPlotter
 Simple java application to draw a 2-D grid array.
-The ArrayPlotter.java contains all the code to draw the array. Look in main java for how to use it.
+The ArrayPlotter.java contains all the code to draw the array. Look in Main.java for how to use it.
 
 All you have to do is copy the ArrayPlotter.java class into your current project, and then update it with a new 2D int [][] every time something changes.
 
